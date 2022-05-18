@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Changing through GITHub.
 
 Changing to test PULL method.
+
+NEWLINE
